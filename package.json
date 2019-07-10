@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dmytronayda/test-driven-development/issues"
   },
-  "homepage": "https://github.com/dmytronayda/test-driven-development#readme"
+  "homepage": "https://github.com/dmytronayda/test-driven-development#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
 }
